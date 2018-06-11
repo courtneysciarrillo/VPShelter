@@ -1,0 +1,7 @@
+c:\users\wecancodeit\source\repos\VPShelter\VPShelter\bin\Debug\VPShelter.exe.config
+c:\users\wecancodeit\source\repos\VPShelter\VPShelter\bin\Debug\VPShelter.exe
+c:\users\wecancodeit\source\repos\VPShelter\VPShelter\bin\Debug\VPShelter.pdb
+c:\users\wecancodeit\source\repos\VPShelter\VPShelter\obj\Debug\VPShelter.csprojAssemblyReference.cache
+c:\users\wecancodeit\source\repos\VPShelter\VPShelter\obj\Debug\VPShelter.csproj.CoreCompileInputs.cache
+c:\users\wecancodeit\source\repos\VPShelter\VPShelter\obj\Debug\VPShelter.exe
+c:\users\wecancodeit\source\repos\VPShelter\VPShelter\obj\Debug\VPShelter.pdb
